@@ -18,5 +18,4 @@ public class DockerLearningApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DockerLearningApplication.class, args);
 	}
-
 }
